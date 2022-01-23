@@ -1,0 +1,302 @@
+body{
+	background-color: #E5E5E5;
+}
+/*****Envision-in-Brief*****/
+#envision-in-brief{
+	position: relative;
+	/*background-color: #E5E5E5;*/
+	width: 100vw;
+	height: 100vh;
+}
+
+
+#eib-head-bg-text{
+
+	margin-top: 0px;
+
+	position: absolute;
+	left: 9.7656%;
+	
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 4.5rem;
+	height: 5rem;
+
+	line-height: 5rem;
+
+	opacity: 0.15;
+	
+}
+
+
+#eib-head-fg-text{
+
+
+	position: absolute;
+
+	top: 4vh;
+	left: 7.8125%;
+
+	height: 3rem;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 2rem;
+	line-height: 2rem;
+	color: #F36C25;
+}
+
+#eib-content{
+
+}
+
+.eib-content-boxex{
+
+	position: absolute;
+	top: 20vh;
+
+	width: 19.68vw;
+	height: 58vh;
+	
+	background: #FFFFFF;
+	border: 0.2rem solid rgba(243, 108, 37, 0.22);
+	box-sizing: border-box;
+	border-radius: 25px;
+}
+
+#eib-cb1{
+	left: 5.156%;
+}
+
+#eib-cb2{
+	left: 28.51%;
+}
+#eib-cb3{
+	left: 51.875%;
+}
+#eib-cb4{
+	left: 75.234%;
+}
+
+.eib-name-no{
+
+	position: absolute;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 42px;
+	color: #FFFFFF;
+	left: 38%;
+	top: 50%;
+
+	background: #F36C25;
+	border-radius: 100%;
+	box-sizing: content-box;
+	padding: 10px;
+}
+
+
+
+
+.eib-name-img{
+
+	position: absolute;
+
+	left: 30%;
+	top: 15%;
+}
+
+.eib-name{
+
+	position: absolute;
+	top: 80%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 1.5rem;
+	line-height: 1.7rem;
+
+	color: #F36C25;
+}
+
+#eib-cb-name1{
+	left: 30%;
+}
+
+#eib-cb-name2{
+	left: 7%;
+}
+#eib-cb-name3{
+	left: 28%;
+}
+#eib-cb-name4{
+	left: 8%;
+}
+
+.eib-bg{
+	position: absolute;
+
+	background: #F0EBE5;
+	box-sizing: border-box;
+	box-shadow: 0px 10px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}
+#eib-bg1{
+	left: 0%;
+	top: 50vh;
+}
+
+#eib-bg2{
+	left: 18%;
+	top: 28vh;
+}
+
+#eib-bg3{
+	left: 41.5%;
+	top: 50vh;
+}
+
+#eib-bg4{
+	left: 70%;
+	top: 28vh;
+}
+
+#eib-bg5{
+	left: 82%;
+	top: 45vh;
+}
+
+
+/*Featured-Projects*/
+
+
+#featured-projects{
+	position: relative;
+	width: 100vw;
+	height: 155vh;
+	
+}
+
+#fp-head{
+	position: relative;
+	width: 100vw;
+	height: 30vh;
+}
+
+#fp-head-bg-text{
+	margin-top: 0px;
+
+	position: absolute;
+	left: 9.7656%;
+	
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 4.5rem;
+	height: 5rem;
+
+	line-height: 5rem;
+
+	opacity: 0.15;
+}
+
+#fp-head-fg-text{
+	position: absolute;
+
+	top: 4vh;
+	left: 7.8125%;
+
+	height: 3rem;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 2rem;
+	line-height: 2rem;
+	color: #F36C25;
+}
+
+#fp-desc{
+	position: absolute;
+	top: 20%;
+	left: 70.1562%;
+	right: 3.3593%;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+
+	color: #F36C25;
+}
+#fp-content{
+	position: relative;
+}
+#fp-bg1{
+	position: absolute;
+	left: 0%;
+}
+
+#fp-bg2{
+	position: absolute;
+	right: 0%;
+}
+
+#fp-imgs{
+	position: absolute;
+	/*width: 100vw;
+	height: 110vh;*/
+	
+	
+}
+#fp-imgs1-3{
+	position: relative;
+	height: 55vh;
+	width: 100vw;
+}
+
+#fp-img1{
+	position: absolute;
+	left: 1.7%;
+	filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.07)) drop-shadow(0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198)) drop-shadow(0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035)) drop-shadow(0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725)) drop-shadow(0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802));
+}
+	
+
+#fp-img2{
+	position: absolute;
+	left: 37.1875%;
+	
+}
+#fp-img3{
+	position: absolute;
+	left: 68.5156%;
+	
+}
+
+
+#fp-imgs4-6{
+	position: relative;
+	height: 55vh;
+}
+
+#fp-img4{
+	position: absolute;
+	left: 7.8125%;
+	
+}
+#fp-img5{
+	position: absolute;
+	left: 37.1875%;
+	
+}
+#fp-img6{
+	position: absolute;
+	left: 62.2%;
+	filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.07)) drop-shadow(0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198)) drop-shadow(0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035)) drop-shadow(0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725)) drop-shadow(0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802));
+}
+
+
+
+
